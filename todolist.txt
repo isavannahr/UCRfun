@@ -1,3 +1,6 @@
 To do
 
-Find a project
+- Find a project
+	- Read papers
+	- Focus on computational methods
+		- Methods Section 
